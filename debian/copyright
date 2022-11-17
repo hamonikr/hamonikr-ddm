@@ -1,0 +1,7 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Source: https://github.com/hamonikr/hamonikr-ddm
+
+Files: *
+Copyright: 2015-2022 HamoniKR <root@hamonikr.org> 
+
+License: GPL-3.0+

@@ -1,0 +1,8 @@
+hamonikr-ddm (1.0.0) taebaek; urgency=medium
+
+  [Kevin]
+  * Release hamonikr session manager
+   - SDDM base session manager
+   - With sugar-candy theme
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 17 Nov 2022 19:37:15 +0900

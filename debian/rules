@@ -1,0 +1,15 @@
+#!/usr/bin/make -f
+
+%:
+	dh $@
+
+# override_dh_usrlocal:
+# 	# remove this override when there aren't
+# 	# anymore files in /usr/local
+
+# override_dh_installsystemd:
+
+# override_dh_link:
+
+# override_dh_installdeb:
+
